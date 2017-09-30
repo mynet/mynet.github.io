@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Mynet 元祺資訊有限公司
+description: 台灣跨境電商、跨境物流、極速架站、簡訊
+plugins:
+  - jemoji
+
